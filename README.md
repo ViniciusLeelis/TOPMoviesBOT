@@ -1,4 +1,4 @@
-# TopMovies-ChatBot (Work in Progress)
+# TopMovies-ChatBot
 Um chatbot que te indica um filme diretamente do top 250 do IMDB.
 
 Projeto proposto pela disciplina Engenharia de Software III, ministrada pelo Professor Me. Giuliano Araujo Bertoti, na FATEC São José dos Campos-SP.
@@ -28,14 +28,16 @@ ___
 
 ## Demonstração
 
-* Pesquisar filme aleatório
+### Pesquisar filme aleatório
 
 <img src="https://raw.githubusercontent.com/ViniciusLeelis/TOPMoviesBOT/master/filme-aleatorio.jpg" width="400">
 
-* Pesquisar filme por gênero
+___
+### Pesquisar filme por gênero
 
 <img src="https://raw.githubusercontent.com/ViniciusLeelis/TOPMoviesBOT/master/listar-genero.jpg" width="400">
 
-* Mostrar histórico de pesquisa
+___
+### Mostrar histórico de pesquisa
 
 <img src="https://raw.githubusercontent.com/ViniciusLeelis/TOPMoviesBOT/master/mostrar-historico.jpg" width="400">
