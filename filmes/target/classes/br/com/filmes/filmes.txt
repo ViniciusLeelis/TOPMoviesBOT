@@ -1,0 +1,52 @@
+﻿[
+	{
+		"rank"   : "1",
+		"nome"   : "Forrest Gump",
+		"ano"  	 : "1994",
+		"genero" : "drama"  
+	},
+
+
+
+	{
+		"rank"   : "2",
+		"nome"   : "Um Sonho de Liberdade",
+		"ano"  	 : "1994",
+		"genero" : "drama"  
+	},
+	
+	{
+		"rank"   : "3",
+		"nome"   : "Poderoso Chefão",
+		"ano"  	 : "1972",
+		"genero" : "ação"  
+	},
+	
+	{
+		"rank"   : "4",
+		"nome"   : "Batman: O Cavalheiro das Trevas",
+		"ano"  	 : "2009",
+		"genero" : "ação"  
+	},
+	
+	{
+		"rank"   : "5",
+		"nome"   : "Intocáveis",
+		"ano"  	 : "2011",
+		"genero" : "comédia"  
+	},
+	
+	{
+		"rank"   : "6",
+		"nome"   : "Brilho Eterno de uma Mente Sem Lembranças",
+		"ano"  	 : "2011",
+		"genero" : "Romance"  
+	},
+	
+	{
+		"rank"   : "7",
+		"nome"   : "Alien, o Oitavo Passageiro",
+		"ano"  	 : "1979",
+		"genero" : "Terror"  
+	}
+]
